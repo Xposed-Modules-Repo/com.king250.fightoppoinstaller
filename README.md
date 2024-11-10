@@ -1,6 +1,6 @@
 # FightOppoInstaller
 
-[![GitHub License](https://img.shields.io/github/v/release/250king/FightOppoInstaller)](https://github.com/250king/FightOppoInstaller)
+[![GitHub License](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.king250.fightoppoinstaller)](https://github.com/Xposed-Modules-Repo/com.king250.fightoppoinstaller/releases)
 [![GitHub License](https://img.shields.io/github/license/250king/FightOppoInstaller)](https://github.com/250king/FightOppoInstaller/blob/master/LICENSE)
 
 因为Oppo自带的Installer太抽象了——如果通过ADB，要你登录Oppo账号后才能安装
