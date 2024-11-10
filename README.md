@@ -5,7 +5,7 @@
 
 因为Oppo自带的Installer太抽象了——如果通过ADB，要你登录Oppo账号后才能安装
 
-![图源LeadroyaL](img/sample.jpg)
+![图源LeadroyaL](https://github.com/Xposed-Modules-Repo/com.king250.fightoppoinstaller/raw/main/img/sample.jpg)
 
 有人说可以通过第三方Installer来绕过限制，但还是会卡权限（也不清楚为什么授权了root还无权限），这严重影响我的开发工作
 
